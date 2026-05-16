@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+a.out
+
+# Local environments
+.venv/
+venv/
+
+# Local Git backups
+.git-backup-*/
